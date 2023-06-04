@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/gajkbbz.png)
+![MasterHead](https://i.hizliresim.com/gajkbbz.png)
 <h1 align="center">Hi 👋, I'm bgrself</h1>
 <h3 align="center">We are Cheaters, But we Don't Cheat Humanity..!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
