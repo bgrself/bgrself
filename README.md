@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/bgrself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bgrself" height="30" width="40" /></a>
 <a href="https://fb.com/bgrself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bgrself" height="30" width="40" /></a>
 <a href="https://instagram.com/bgrself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bgrself" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bgrself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bgrself" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bgrself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bgrself" height="30" width="40" /></a>
 <a href="https://discord.gg/bSQpsNZABV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bSQpsNZABV" height="30" width="40" /></a>
 </p>
 
