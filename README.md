@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bgrself@gmail.com**
 
-- ⚡ Fun fact **I thin I am famous**
+- ⚡ Fun fact **I think I am famous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
