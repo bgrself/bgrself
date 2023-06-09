@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hizliresim.com/79e39ee)](https://bgrself.github.io)
+[![MasterHead](https://i.hizliresim.com/79e39ee.png)](https://bgrself.github.io)
 
 <h1 align="center">Hi 👋, I'm bgrself</h1>
 <h3 align="center">We are Cheaters, But we Don't Cheat Humanity..!</h3>
